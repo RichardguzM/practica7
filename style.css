@@ -1,0 +1,14 @@
+ul.menu {
+    list-style-type: circle;
+}
+ol.tipo1 {
+    list-style-type: decimal;
+}
+
+ol.paella { 
+    list-style-type: lower-roman
+}
+
+ol.segundo {
+    list-style-type: lower-alpha;
+}
